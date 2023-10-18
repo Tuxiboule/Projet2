@@ -1,0 +1,13 @@
+#ignore les fichiers pptx et les docx
+*.pptx
+*.docx
+
+#ignore les pdf
+*.pdf
+
+#ignore les dossiers présents
+env
+Livrable
+scrap
+.git
+
