@@ -2,6 +2,7 @@
 ![](icon.png)
 
 ## About
+
 This Python script is used to retrieve information about various books from an online book-selling website. 
 The collected data is then saved in CSV files for future use.
 
