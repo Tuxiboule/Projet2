@@ -39,7 +39,7 @@ Next, run the Python script `main.py` to retrieve the data. The CSV files contai
 
 ## Context - Use Python fundamentals for market analysis
 
-Second python project, done in a couple of days while learning Python basics
+Second python project, done within a couple of days while learning Python basics
 
 ## Skills
 
